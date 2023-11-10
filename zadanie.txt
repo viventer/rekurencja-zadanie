@@ -1,0 +1,19 @@
+Zadanie: Obliczanie silnii.
+Napisz funkcję rekurencyjną która obliczy silnie z liczby 
+naturalnej (liczby naturalne: 0, 1, 2, 3, ..., 997, ...).
+
+Silnia z liczby n to iloczyn liczb naturalnych od 1 do n.
+Symbol silni: !
+wzór:
+n! = n * (n-1) * (n-2) * (n-3) * ... * 2 * 1
+np.:
+5! = 5 * 4 * 3 * 2 * 1 = 120
+8! = 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 = 40320
+
+Specjalne przypadki:
+0! = 1
+1! = 1
+
+Powodzenia!
+Jeśli długo nie wpadniesz na rozwiązanie - zajrzyj do podpowiedzi.
+

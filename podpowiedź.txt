@@ -1,0 +1,11 @@
+Funkcja będzie składać się tylko z warunku bazowego i 
+return'a.
+
+Najpierw wyznacz warunek bazowy odpowiadając na pytanie, kiedy 
+rozwiązanie jest najprostsze (nie wymaga obliczeń).
+
+Aby wymyślić zwracane wyrażenie możesz rozpisać co pokolei 
+musi zrobić program, aby dojść do rozwiązania (w paincie lub na kartce).
+Wyrażenie jest prostsze niż może ci się wydawać.
+
+
